@@ -1,6 +1,6 @@
 # PHP 資料庫網頁設計 - 網頁動態技術 - 期中作業
 
-## 個人 GitPage 之預覽連結
+## 個人履歷 GitPage 之預覽連結
 https://torotw.github.io/resume/
 
 ## 作業內容
